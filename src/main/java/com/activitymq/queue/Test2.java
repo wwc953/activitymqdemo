@@ -6,6 +6,6 @@ package com.activitymq.queue;
  **/
 public class Test2 {
     public static void main(String[] args) {
-
+System.out.println("我是U1");
     }
 }
