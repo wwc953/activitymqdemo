@@ -5,5 +5,7 @@ package com.activitymq.queue;
  * @create 2020-03-29 14:43
  **/
 public class Test2 {
+    public static void main(String[] args) {
 
+    }
 }
